@@ -29,7 +29,7 @@ My favorite ones include:
 
 Languages and tools:
 
-<img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" width="30px"/><img src="https://img.icons8.com/ios/50/000000/python.png" width="30px"/><img src="https://img.icons8.com/ios/50/000000/javascript.png" width="30px"/>
+<a href="https://github.com/gideontong?tab=repositories&q=&type=&language=c"><img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="30px"/></a><a href="https://github.com/gideontong?tab=repositories&q=&type=&language=python"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="30px"/></a><a href="https://github.com/gideontong?tab=repositories&q=&type=&language=javascript"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="Javascript" width="30px"/></a>
 
 <details>
     <summary><b>Expandable content.</b></summary>
