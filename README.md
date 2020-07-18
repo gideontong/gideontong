@@ -23,12 +23,15 @@ My favorite ones include:
     <a href="https://gideontong.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>
     <a href="https://www.linkedin.com/in/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
     <a href="https://twitter.com/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
+    <a href="https://youtube.com/funnygid123" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png"/></a>
     <a href="https://patreon.com/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/patreon.png"/></a>
 </p>
 
 Languages and tools:
 
-> Some icons go here.
+<img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/ios/50/000000/python.png"/>
+<img src="https://img.icons8.com/ios/50/000000/javascript.png"/>
 
 <details>
     <summary><b>Expandable content.</b></summary>
