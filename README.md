@@ -12,6 +12,8 @@ My favorite ones include:
 * Amy
 * Authentic
 
+<br/>
+
 <h3 align="center">
     Click the icons below to connect with me!
 </h3>
