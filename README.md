@@ -3,10 +3,15 @@
 <!-- It appears hits are not being tracked right now. -->
 ![Hit Count](http://hits.dwyl.com/gideontong/gideontong.svg)
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true)](https://www.github.com/gideontong)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true"/>
+<p>
+
+<h3 align="center">
+    Connect with me!
+</h3>
 
 <p align="center">
-    ### Connect with me!
     <a href="https://gideontong.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>
 </p>
 
