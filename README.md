@@ -8,12 +8,13 @@
 <p>
 
 <h3 align="center">
-    Connect with me!
+    Click the icons below to connect with me!
 </h3>
 
 <p align="center">
     <a href="https://gideontong.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>
     <a href="https://www.linkedin.com/in/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
+    <a href="https://twitter.com/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
 </p>
 
 Alternative hit counters services (for now, since dwyl's service is down.):
