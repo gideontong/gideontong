@@ -5,14 +5,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true" align="right"/>
 
+I'm a 🎓 university student at **UC San Diego** studying electrical engineering, but that doesn't mean this profile is confined to it!
+
+> Some information about myself goes here.
+
 I work hard on my open source projects, so please show some ♥ and give some of them a ⭐!
 
 My favorite ones include:
 
 * Amy
+  * Some information about this project goes here.
 * Authentic
-
-<br/>
+  * Some information about this project goes here.
 
 <h3 align="center">
     Click the icons below to connect with me!
