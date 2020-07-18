@@ -28,6 +28,10 @@ My favorite ones include:
     <a href="https://twitter.com/gideontong" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
 </p>
 
+Languages and tools:
+
+> Some icons go here.
+
 Alternative hit counters services (for now, since dwyl's service is down):
 
 ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgideontong%2Fgideontong) ![Hit Count](https://visitor-badge.glitch.me/badge?page_id=gideontong.gideontong) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gideontong.gideontong)
