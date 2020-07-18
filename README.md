@@ -1,4 +1,4 @@
-### Hey, I'm Gideon! ![OSS Party Parrot](https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif)
+### Hey, I'm Gideon! <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="30px"/>
 
 <!-- It appears hits are not being tracked right now. -->
 ![Hit Count](http://hits.dwyl.com/gideontong/gideontong.svg)
