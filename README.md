@@ -6,14 +6,11 @@ I'm a 🎓 university student at **UC San Diego** studying electrical engineerin
 
 > Some information about myself goes here.
 
-I work hard on my open source projects, so please show some ♥ and give some of them a ⭐!
+I work hard on my open source projects, so please show some :heart: and give some of them a :star:! My favorite ones are all pinned below, but for your convenience, I've also linked them right here.
 
-My favorite ones include:
+[Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
-* Amy
-  * Some information about this project goes here.
-* Authentic
-  * Some information about this project goes here.
+For a complete listing of projects, click [here](https://me.gideontong.com).
 
 <h3 align="center">
     Click the icons below to connect with me!
