@@ -49,6 +49,9 @@ I use the following langauges and tools almost every day (*click to see my work!
   <a href="https://me.gideontong.com">
     <img src="https://img.icons8.com/ios/50/000000/raspberry-pi.png" alt="Raspberry Pi" width="30px"/>
   </a>
+  <a href="https://me.gideontong.com">
+    <img src="https://img.icons8.com/ios/32/000000/arduino.png" alt="Arduino" width="30px"/>
+  </a>
 </p>
 
 <!--
