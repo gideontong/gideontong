@@ -62,4 +62,4 @@ I use the following langauges and tools almost every day (*click to see my work!
 
 Various hit counter services (will be replaced when dwyl's service works again):
 
-![Hit Count](http://hits.dwyl.com/gideontong/gideontong.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgideontong%2Fgideontong) ![Hit Count](https://visitor-badge.glitch.me/badge?page_id=gideontong.gideontong) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gideontong.gideontong)
+![Hit Count](http://hits.dwyl.com/gideontong/gideontong.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgideontong%2Fgideontong) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gideontong.gideontong)
