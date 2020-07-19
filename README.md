@@ -2,9 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true" align="right"/>
 
-I'm a 🎓 university student at **UC San Diego** studying electrical engineering, but that doesn't mean this profile is confined to it!
-
-> Some information about myself goes here.
+> I'm a 🎓 university student at **UC San Diego** studying electrical engineering, but I also like drones, data, and hacking!
 
 I work hard on my open source projects, so please show some :heart: and give some of them a :star:! My favorite ones are all pinned below, but for your convenience, I've also linked them right here.
 
@@ -53,9 +51,11 @@ I use the following langauges and tools almost every day (*click to see my work!
   </a>
 </p>
 
+<!--
 <details>
     <summary><b>Expandable content.</b></summary>
 </details>
+-->
 
 Various hit counter services (will be replaced when dwyl's service works again):
 
