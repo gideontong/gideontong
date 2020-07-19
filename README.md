@@ -26,7 +26,7 @@ For a complete listing of projects, click [here](https://me.gideontong.com).
 
 I use the following langauges and tools almost every day (*click to see my work!*):
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=c">
     <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="30px"/>
   </a>
