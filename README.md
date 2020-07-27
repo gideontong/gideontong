@@ -8,7 +8,7 @@ I work hard on my open source projects, so please show some :heart: and give som
 
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
-For a complete listing of projects, click [here](https://me.gideontong.com).
+For a complete listing of projects, click [here](https://gideontong.me).
 
 <h3 align="center">
     Click the icons below to connect with me!
@@ -46,10 +46,10 @@ I use the following langauges and tools almost every day (*click to see my work!
   <a href="https://github.com/gideontong/config">
     <img src="https://img.icons8.com/ios/80/000000/mac-os.png" alt="macOS" width="30px"/>
   </a>
-  <a href="https://me.gideontong.com">
+  <a href="https://gideontong.me">
     <img src="https://img.icons8.com/ios/50/000000/raspberry-pi.png" alt="Raspberry Pi" width="30px"/>
   </a>
-  <a href="https://me.gideontong.com">
+  <a href="https://gideontong.me">
     <img src="https://img.icons8.com/ios/32/000000/arduino.png" alt="Arduino" width="30px"/>
   </a>
 </p>
