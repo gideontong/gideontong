@@ -1,4 +1,4 @@
-### Hey, I'm Gideon! <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="16px"/>
+### Hey, I'm Gideon! <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="16px"/> ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gideontong.gideontong)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true" align="right"/>
 
@@ -59,5 +59,3 @@ I use the following langauges and tools almost every day (*click to see my work!
     <summary><b>Expandable content.</b></summary>
 </details>
 -->
-
-![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gideontong.gideontong)
