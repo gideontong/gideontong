@@ -26,7 +26,7 @@ I use the following langauges and tools almost every day (*click to see my work!
 
 <p align="center">
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=c">
-    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="30px"/>
+    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="30px" style="background: #ffffff; width: 100px; height: 100px; border-radius: 50%; text-align: center; line-height: 100px; vertical-align: middle; padding: 30px;"/>
   </a>
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=python">
     <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="30px"/>
