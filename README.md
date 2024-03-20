@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true" align="right"/>
 
-> I'm a 🎓 university student at **UC San Diego** studying electrical engineering, but I also like drones, data, and hacking!
+> Systems Engineer at **Cloudflare**. Loves electrical engineering, multirotors, and experimenting.
 
 I work hard on my open source projects, so please show some :heart: and give some of them a :star:! My favorite ones are all pinned below, but for your convenience, I've also linked them right here.
 
