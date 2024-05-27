@@ -8,8 +8,6 @@ I work hard on my open source projects, so please show some :heart: and give som
 
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
-For a complete listing of projects, click [here](https://gideontong.me).
-
 <h3 align="center">
     Click the icons below to connect with me!
 </h3>
@@ -25,6 +23,9 @@ For a complete listing of projects, click [here](https://gideontong.me).
 I use the following langauges and tools almost every day (*click to see my work!*):
 
 <p align="center">
+  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=rust">
+    <img src="https://img.icons8.com/color/64/000000/rust-programming-language.png" alt="Rust" width="30px"/>
+  </a>
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=c">
     <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" width="30px"/>
   </a>
@@ -34,22 +35,13 @@ I use the following langauges and tools almost every day (*click to see my work!
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=javascript">
     <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="Javascript" width="30px"/>
   </a>
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=java">
-    <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png" alt="Java" width="30px"/>
-  </a>
   <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=shell">
     <img src="https://img.icons8.com/color/64/000000/linux.png" alt="Linux" width="30px"/>
   </a>
-  <a href="https://github.com/gideontong/TI-Tools">
-    <img src="https://img.icons8.com/color/64/000000/windows-logo.png" alt="Windows" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong/config">
-    <img src="https://img.icons8.com/color/64/000000/mac-os.png" alt="macOS" width="30px"/>
-  </a>
-  <a href="https://gideontong.me">
+  <a href="https://gideontong.com">
     <img src="https://img.icons8.com/color/64/000000/raspberry-pi.png" alt="Raspberry Pi" width="30px"/>
   </a>
-  <a href="https://gideontong.me">
+  <a href="https://gideontong.com">
     <img src="https://img.icons8.com/color/64/000000/arduino.png" alt="Arduino" width="30px"/>
   </a>
 </p>
