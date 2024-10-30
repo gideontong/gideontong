@@ -6,6 +6,8 @@
 
 I post a bit of my work here, although not as much as I used to.
 
+If you have any questions, please feel free to reach out.
+
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
 <h3 align="center">
