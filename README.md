@@ -2,9 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gideontong&show_icons=true&hide_border=true" align="right"/>
 
-> Loves electrical engineering, multirotors, and experimenting.
+> Welcome to my open source homepage.
 
-I work hard on my open source projects, so please show some :heart: and give some of them a :star:! My favorite ones are all pinned below, but for your convenience, I've also linked them right here.
+I post a bit of my work here, although not as much as I used to.
 
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
