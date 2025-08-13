@@ -10,8 +10,7 @@ If you have any questions, please feel free to reach out.
 
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
 
-
-
+<br/><br/>
 
 <h3 align="center">
     Click the icons below to connect with me!
