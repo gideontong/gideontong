@@ -4,7 +4,7 @@
 
 > Welcome to my open source homepage.
 
-I post a bit of my work here, although not as much as I used to.
+I post a bit of my work here, although not as much as I used to. I've moved on from software engineering to electrical engineering.
 
 If you have any questions, please feel free to reach out.
 
