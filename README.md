@@ -2,8 +2,6 @@
 
 > Welcome to my open source homepage.
 
-I post a bit of my work here, although not as much as I used to. I've moved on from software engineering to electrical engineering.
-
-If you have any questions, please feel free to reach out.
+If you have any questions, please feel free to reach out. I used to be more active on GitHub, but I've largely stopped uploading now that I've moved onto new opportunities. Happy to respond anytime, although I don't respond to spam.
 
 [Amy](https://www.github.com/gideontong/Amy) • [Authentic](https://www.github.com/gideontong/Authentic) • [Platypus](https://www.github.com/gideontong/Platypus) • [outpost](https://www.github.com/gideontong/outpost) • [Meloread](https://www.github.com/gideontong/Meloread)
